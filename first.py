@@ -1,5 +1,5 @@
-a = int(input("Enter First Number:"))
-b = int(input("Enter Second Number:"))
+a = 2
+b = 3
 
 
 print(a+b)
